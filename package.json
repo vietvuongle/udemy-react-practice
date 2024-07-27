@@ -11,11 +11,15 @@
     "react": "^18.3.1",
     "react-bootstrap": "2.2.2",
     "react-dom": "^18.3.1",
+    "react-paginate": "^8.2.0",
     "react-scripts": "5.0.1",
+    "react-toastify": "^10.0.5",
     "sass": "1.49.10",
     "web-vitals": "^2.1.4"
   },
-  "overrides": { "autoprefixer": "10.4.5" },
+  "overrides": {
+    "autoprefixer": "10.4.5"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
